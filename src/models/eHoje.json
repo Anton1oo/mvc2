@@ -2,13 +2,14 @@
 
 {
 
-"nome":"Bruno Isnard",
-"telefone":["88888888","9999999","5555555" ],
-"endereço":"",
-"cpf":"0000000",
-
-
-
+"Nome":"Bruno",
+"Sobremone":"Isnard",
+"Idade":42,
+"Telefone":["88888888","9999999","5555555" ],
+"Endereço":"Av. Mascarenhas de Moraes",
+"CPF":12345678901,
+"Bairro":"Imbiribeira",
+"Tipo sanguineo":"O-"
 
 
 }
